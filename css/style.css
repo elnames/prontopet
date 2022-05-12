@@ -33,6 +33,10 @@
     margin-left: 5px;
 }
 
+.color {
+    color: black;
+}
+
 .search_box .input_search {
     outline: none;
     border: 0;
