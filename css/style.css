@@ -28,13 +28,8 @@
     justify-content: center;
     align-items: center;
     color: rgb(109, 95, 123);
-    margin-right: 15px;
+    margin-right: 5px;
     cursor: pointer;
-    margin-left: 5px;
-}
-
-.color {
-    color: black;
 }
 
 .search_box .input_search {
