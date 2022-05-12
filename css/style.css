@@ -2,6 +2,12 @@
     transform: scale(1.1);
 }
 
+@media (max-width:475px) {
+    .padding {
+        padding-right: 20px;
+    }
+}
+
 .imagenes {
     border-radius: 1rem;
 }
