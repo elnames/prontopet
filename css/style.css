@@ -120,6 +120,12 @@
 }
 
 .imgcards {
-    width: 258px;
+    width: 260px;
     height: 200px;
+}
+
+.font {
+    font-size: 11px;
+    margin-bottom: 0;
+    text-decoration: line-through;
 }
